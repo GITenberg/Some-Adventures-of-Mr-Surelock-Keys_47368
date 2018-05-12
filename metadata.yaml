@@ -1,10 +1,16 @@
 _repo: Some-Adventures-of-Mr-Surelock-Keys_47368
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47368-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Beeman, Herbert
     gutenberg_agent_id: '44283'
     url: http://www.gutenberg.org/2009/agents/44283
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47368#Some-Adventures-of-Mr-Surelock-Keys
 gutenberg_issued: '2014-11-16'
 gutenberg_type: Text
 identifiers:
